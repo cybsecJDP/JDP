@@ -7,4 +7,4 @@ Vous commencez à me connaître, j'aime jouer alors essayez de me retrouver avan
 2- Ma seconde se trouve sur Twitter
 3- Ma troisième est 78 en ASCII
 4- Ma quatrième est la seule lettre contenue 2 fois dans un même prénom de l'affiche
-5- Pour ma dernière, Git sera votre ami.
+5- Pour ma dernière, Git sera votre ami
